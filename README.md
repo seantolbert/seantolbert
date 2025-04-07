@@ -7,11 +7,6 @@ I am a mobile developer
 I have spent the better part of 2 years learning new technologies and making my webs apps proficient with clean code as well as mastering the learning process for new technologies. My goal is to be considered knowledgable, coachable, and dependable by any team I am a part of.
 
 *   🌍  I'm based in Washington, DC
-*   🖥️  See my portfolio at [tolbert.me](http://tolbert.me)
-*   ✉️  You can contact me at [sean@tolbert.me](mailto:sean@tolbert.me)
-*   🧠  I'm learning TypeScript
-*   🤝  I'm open to collaborating on mobile apps with Flutter and React Native.
-*   ⚡  My work experience makes me uniquely capably of acting as a liaison between the product, sales, and development team in an agile, scrum, kanban, and waterfall management environments.
    
 ### Skills
 
