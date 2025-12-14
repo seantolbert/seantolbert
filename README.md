@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m [Your Name] — Dev for Makers
+# 👋 Hey there, I’m Sean — Dev for Makers
 
 I build **secure, powerful websites** for **makers, crafters, and creative entrepreneurs** — because I’m one of you.
 
